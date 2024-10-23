@@ -20,3 +20,14 @@ Prompts to save unsaved changes before opening a new document or closing the app
 
 Simple and intuitive design to enhance user experience.
 Provides clear prompts and confirmations when closing, opening, or creating new files.
+
+## Installation
+
+```bash
+git clone --depth 1 https://github.com/abdullahazmy/Notepad.git
+```
+
+2. Open the solution in Visual Studio.
+3. Build and run the project.
+
+
